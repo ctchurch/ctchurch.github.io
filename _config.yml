@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ctchurch.github.io
+title: Out with the old, In with the New
+email: chris.church@gmail.com
+author: Chris Church
+description: DevOps, Pragmatic MicroServices, Open Source, and Sarcasm
+paginate: 5
+google_analytics: 

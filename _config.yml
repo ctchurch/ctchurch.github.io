@@ -6,5 +6,6 @@ email: chris.church@gmail.com
 author: Chris Church
 paginate: 5
 google_analytics: 
+permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-hacker

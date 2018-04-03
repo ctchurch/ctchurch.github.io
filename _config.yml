@@ -9,3 +9,4 @@ google_analytics:
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker

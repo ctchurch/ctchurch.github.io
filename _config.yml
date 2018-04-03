@@ -8,3 +8,5 @@ author: Chris Church
 description: DevOps, Pragmatic MicroServices, Open Source, and Sarcasm
 paginate: 5
 google_analytics: 
+
+theme: jekyll-theme-hacker
